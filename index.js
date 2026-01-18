@@ -91,3 +91,117 @@ if (n > 0) {
 // }
 // console.log(k);
 
+//9-masala
+// let a = Number(prompt("a sonini kiriting:"));
+// let b = Number(prompt("b sonini kiriting:"));
+// let k = 0;
+
+// if (a < b) {
+//     for (let i = a; i <= b; i++) {
+//         console.log(i);
+//         k++;
+//     }
+//     console.log(k + " ta son bor");
+// } else {
+//     console.log("a soni b sonidan kichik bo'lishi kerak");
+// }
+
+//10-masala
+// let a = Number(prompt("a sonini kiriting:"));
+// let b = Number(prompt("b sonini kiriting:"));
+// let k = 0;
+
+// if (a < b) {
+//     for (let i = b--; i > a; i--) {
+//         console.log(i);
+//         k++;
+//     }
+//     console.log(k + " ta son bor");
+// } else {
+//     console.log("a soni b sonidan kichik bo'lishi kerak");
+// }
+
+//11-masala
+// let narx = Number(prompt("Mahsulot narxini kiriting:"));
+
+// for (let i = 1; i <= 10; i++) {
+//     let umumiyNarx = narx * i;
+//     console.log(i + " kg mahsulot narxi: " + umumiyNarx);
+// }
+
+//12-masala
+// let narx = Number(prompt("Mahsulot narxini kiriting:"));
+
+// for (let i = 1; i <= 2; i += 0.2) {
+//     let umumiyNarx = narx * i;
+//     console.log(i + " kg mahsulot narxi: " + umumiyNarx);
+// }
+
+//13-masala
+// let a = Number(prompt("a sonini kiriting:"));
+// let b = Number(prompt("b sonini kiriting:"));
+// let yigindi = 0;
+
+// if (a < b) {
+//     for (let i = a; i <= b; i++) {
+//         yigindi += i;
+//     }
+//     console.log(yigindi);
+// } else {
+//     console.log("a soni b sonidan kichik bo'lishi kerak");
+// }
+
+//14-masala
+// let a = Number(prompt("a sonini kiriting:"));
+// let b = Number(prompt("b sonini kiriting:"));
+// let kopaytma = 1;
+
+// if (a < b) {
+//     for (let i = a; i <= b; i++) {
+//         kopaytma *= i;
+//     }
+//     console.log(kopaytma);
+// } else {
+//     console.log("a soni b sonidan kichik bo'lishi kerak");
+// }
+
+//15-masala
+// let a = Number(prompt("a sonini kiriting:"));
+// let b = Number(prompt("b sonini kiriting:"));
+// let kvyigindi = 0;
+
+// if (a < b) {
+//     for (let i = a; i <= b; i++) {
+//         let kv = ;
+//         kv += i;
+//     }
+//     console.log(kv);
+// } else {
+//     console.log("a soni b sonidan kichik bo'lishi kerak");
+// }
+
+//16-masala
+// let n = Number(prompt("n sonini kiriting:"));
+// let s = 0;
+
+// if (n > 0) {
+//     for (let i = 1; i <= n; i++) {
+//         s += 1/i;
+//     }
+//     console.log(s);
+// } else {
+//     console.log("n manfiy son bo'lishi mumkin emas");
+// }
+
+//17-masala
+// let n = Number(prompt("n sonini kiriting:"));
+// let s = 1;
+
+// if (n > 0) {
+//     for (let i = 1; i <= n; i += 0.1) {
+//         s *= i;
+//     }
+//     console.log(s);
+// } else {
+//     console.log("n manfiy son bo'lishi mumkin emas");
+// }
